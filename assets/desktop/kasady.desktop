@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kasady
+Comment=Easy view of PDFs and PPTX files
+Exec=/usr/bin/kasady %F
+Icon=/path/to/icon.png
+Terminal=false
+Categories=Graphics;Viewer;Office;
+MimeType=application/pdf;application/vnd.openxmlformats-officedocument.presentationml.presentation;
